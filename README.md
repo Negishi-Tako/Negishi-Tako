@@ -33,7 +33,7 @@
 
 ## Links
 <p>
-  <a href="https://zenn.dev/negishi_tako/">Zenn</a> ・
+  <a href="https://zenn.dev/ngstk/">Zenn</a> ・
   <a href="https://github.com/negishi-tako/">GitHub</a> ・
   <a href="https://x.com/negishi_tako/">X</a> ・
   <a href="https://ngstk.jp">Official</a>

@@ -4,7 +4,7 @@
 
 <!-- README.md (ngstk.jp 風テンプレート) -->
 <p align="center">
-  <img src="https://placehold.co/120x120/png?text=Avatar" alt="profile" width="120" style="border-radius:50%">
+  <img src="https://ngstk.jp/tako.jpg" alt="profile" width="120" style="border-radius:50%">
 </p>
 
 <h1 align="center">negishi_tako</h1>
@@ -19,7 +19,7 @@
 - 🎓 Kaisei Secondary School  
 - 📍 Hokkaido, Japan  
 - 🛡️ Security / Back-End
-- 🔭 興味: CyberSecurity Researching、API Server Security、Network Engineering
+- 🔭 Interested: CyberSecurity Researching、API Server Security、Network Engineering
 
 ---
 
@@ -44,6 +44,7 @@
 ## Skills
 - Languages: Python, TypeScript, JavaScript, PHP
 - Backend: REST API, Fast API, Hono, Laravel, MySQL
+- Other: Network(Cisco, YAMAHA), AWS, Azure, OpenAI API
 - Security: Vulnerability Test、SecureCoding、Pentests(Learning)
 
 ---

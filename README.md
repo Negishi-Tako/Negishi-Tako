@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="https://github.com/Negishi_Tako">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Negishi_Tako&show_icons=true&theme=dracula&hide_border=true" alt="Negishi_Tako's GitHub Stats" />
+    ![](https://github-readme-stats.vercel.app/api?username=Negishi_Tako&count_private=true&show_icons=true&theme=dracula)
   </a>
   <a href="https://github.com/Negishi_Tako">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Negishi_Tako&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Negishi_Tako&layout=compact&theme=dracula)
   </a>
 </p>
 

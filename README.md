@@ -8,11 +8,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/negishi_tako">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=negishi_tako&show_icons=true&theme=dracula&hide_border=true" alt="negishi_tako's GitHub Stats" />
+  <a href="https://github.com/Negishi_Tako">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Negishi_Tako&show_icons=true&theme=dracula&hide_border=true" alt="Negishi_Tako's GitHub Stats" />
   </a>
-  <a href="https://github.com/negishi_tako">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negishi_tako&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Negishi_Tako">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Negishi_Tako&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -49,10 +49,10 @@
 
 ## 📬 Find Me Around
 
-[GitHub](https://github.com/negishi_tako) • [X/Twitter](https://twitter.com/negishi_tako) • [Blog (ngstk.jp)](https://ngstk.jp)  
+[GitHub](https://github.com/Negishi_Tako) • [X/Twitter](https://twitter.com/Negishi_Tako) • [Blog (ngstk.jp)](https://ngstk.jp)  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=negishi_tako&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Negishi_Tako&color=blueviolet" alt="Profile views" />
 </p>

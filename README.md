@@ -5,19 +5,8 @@
   Network, Security, and Infrastructure oriented engineer and student.<br>
 </p>
 
----
-
-<p align="center">
-  <a href="https://github.com/Negishi_Tako">
-    ![](https://github-readme-stats.vercel.app/api?username=Negishi_Tako&count_private=true&show_icons=true&theme=dracula)
-  </a>
-  <a href="https://github.com/Negishi_Tako">
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Negishi_Tako&layout=compact&theme=dracula)
-  </a>
-</p>
-
----
-
+![](https://github-readme-stats.vercel.app/api?username=Negishi_Tako&count_private=true&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Negishi_Tako&layout=compact&theme=dracula)
 ## 🔧 Skills & Tools
 
 | Area | Technologies / Tools |

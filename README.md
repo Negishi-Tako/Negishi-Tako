@@ -44,7 +44,7 @@
 ## Skills
 - Languages: Python, TypeScript, JavaScript, PHP
 - Backend: REST API, Fast API, Hono, Laravel, MySQL
-- Other: Network(Cisco, YAMAHA), AWS, Azure, OpenAI API
+- Other: Network(Cisco, YAMAHA), AWS, Azure, ClaudeFlare, OpenAI API
 - Security: Vulnerability Test、SecureCoding、Pentests(Learning)
 
 ---
